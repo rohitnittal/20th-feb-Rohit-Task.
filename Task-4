@@ -1,0 +1,15 @@
+<html>
+   <body>
+    <form action="" method="POST">
+        <label for="username">username</label>
+        <input type="text" id="username"name="user">
+        <label for="password">password</label>
+        <input type="text" id="password"name="pass">
+        <h1>password</h1>user:Akshaya
+        <input type="text">
+        <input type="submit">
+        <input type="reset">
+        <input type="button" value="submit">
+        </form>
+   </body>
+</html>
